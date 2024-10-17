@@ -1,0 +1,11 @@
+/.idx
+/.vscode
+/Components
+/Properties
+/README.md
+/appsettings.Development.json
+/appsettings.json
+/bin
+/myapp.csproj
+/obj
+/wwwroot
